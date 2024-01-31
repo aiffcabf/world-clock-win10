@@ -1,3 +1,3 @@
 # world-clock-win10
-open clock app from start
+- open clock app from start
 previewed in next image
