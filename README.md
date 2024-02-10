@@ -2,4 +2,4 @@
 - open clock app from start
 - previewed in next image
 - dark theme inside app
-- seasonal evolves
+- seasonal real-time
